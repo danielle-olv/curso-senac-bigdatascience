@@ -3,7 +3,7 @@ Repositório destinado a armazenar os exercícios do curso de **Análise de Dado
 
 ## :spiral_calendar: Período
 **Início em:** 20/05/2026  
-**Término em:** 18/08/2026
+**Término em:** 12/08/2026
 
 ## :file_folder: Conteúdo
 * :brain: Lógica de programação para dados
