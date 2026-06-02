@@ -11,4 +11,3 @@ else:
     print(f"{val} é maior que 30")
 print("Exercício concluído")
 print("Teste")
-print("Teste2")
