@@ -14,5 +14,5 @@ while palpite != numero_secreto:
             #Essa parte só será executada quando o palpite == numero_secreto
             print(f"Parabéns! Você acertou o número secreto: {numero_secreto}!")
 
-except ValueError:
-    print("Por favor, digite apenas números inteiros.")
+    except ValueError:
+        print("Por favor, digite apenas números inteiros.")
