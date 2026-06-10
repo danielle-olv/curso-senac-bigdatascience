@@ -1,4 +1,4 @@
-# :chart_with_upwards_trend: Analista de Dados - Big Data Science 
+# :chart_with_upwards_trend: Análise de Dados - Big Data Science 
 Repositório destinado a armazenar os exercícios do curso de **Análise de Dados - Big Data Science** do [Senac RJ](https://www.rj.senac.br/cursos/tecnologia-da-informacao/analista-de-dados).
 
 ## :spiral_calendar: Período
