@@ -11,3 +11,4 @@ print(dados_bi)
 #print(dados_bi.head(1)) -> mostrar apenas a primeira linha
 dados_bi.to_csv('salarios_cargos.csv', index=False, encoding='utf-8')
 #utf-8 é para permitir acentuações
+#index=False é para não incluir indexação
