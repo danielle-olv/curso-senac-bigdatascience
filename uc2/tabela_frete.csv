@@ -1,0 +1,6 @@
+﻿regiao_id,Nome_Regiao,Valor_Frete,Prazo_Dias
+reg_SE,Sudeste,15.00,2
+reg_S,Sul,22.50,3
+reg_N,Norte,45.00,7
+reg_NE,Nordeste,30.00,5
+reg_CO,Centro-Oeste,25.00,4

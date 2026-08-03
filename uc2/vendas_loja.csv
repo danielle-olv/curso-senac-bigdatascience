@@ -1,0 +1,8 @@
+ID_Pedido,Produto,Categoria,Quantidade,Preco_Unitario,Regiao
+1001,iPhone 14,Celulares,1.0,5000,Sudeste
+1002,Mouse Gamer,Acessórios,3.0,150,Sul
+1003,MacBook Air,Notebooks,1.0,8000,Sudeste
+1004,Teclado Mecânico,Acessórios,2.0,350,Nordeste
+1005,Monitor 24,Monitores,1.0,1200,Centro-Oeste
+1006,iPhone 14,Celulares,2.0,5000,Nordeste
+1007,Mouse Gamer,Acessórios,,150,Sul
