@@ -9,3 +9,11 @@ print(faturamento['Janeiro'])
 print(faturamento * 2)
 
 print(pd.isna(faturamento))
+
+#print (faturamento)
+#print (faturamento["Janeiro"])
+
+#print(faturamento.mean()) - média da coluna
+#print(faturamento.sum()) - soma de todas as entradas
+#print(faturamento.min()) - menor valor
+#print(faturamento.max()) - maior valor
